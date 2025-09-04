@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this but if you do…I just want you to know ally,I still think about you sometimes.We both love and care of each other before,i still watch over you but silently\n\nAnyway,I hope you're doing okay and wish you the best in every aspect in your life,i'll keep supporting and cherishing abt you silently from afar ^^,take care my greatest person anyways the moon is beautiful isn't it ?`;
+const message = `I don’t even know if you’ll ever read this but if you do…I just want you to know ally,I still think about you sometimes.We both love and care of each other before,i still watch over you but silently\n\nI hope you're doing okay and wish you the best in every aspect in your life,do the best for your major SPM exam,i'll keep supporting and cherishing abt you silently from afar ^^,take care my greatest person anyways the moon is beautiful isn't it ?`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
